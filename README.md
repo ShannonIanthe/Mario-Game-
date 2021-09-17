@@ -7,7 +7,7 @@ Bugs:
 2. My dangerous mushrooms would not move
 
 How I solved these bugs:
-1. I realized that I spelled wrong lol 
+1. I realized that I spelled label wrong lol 
 2. I realized when I first labelled the mushrooms as 'danger' and later referenced them to 'dangerous'
   so I went back and made sure that both labels were consistent and both were labelled 'dangerous'.
  
